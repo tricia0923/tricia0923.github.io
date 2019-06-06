@@ -1,2 +1,2 @@
-# tricia0923.github.io
+ tricia0923.github.io
 Learning GitHub and Vue tour
